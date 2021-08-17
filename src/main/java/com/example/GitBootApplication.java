@@ -14,6 +14,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class GitBootApplication {
 
     public static void main(String[] args) {
+        //在Github上修改过后的代码
         SpringApplication.run(GitBootApplication.class, args);
     }
 
