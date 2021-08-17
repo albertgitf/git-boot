@@ -4,7 +4,8 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 /**
- * Version 1.0.0 正在启用
+ * Version 1.0.0 已弃用
+ * Version 1.0.1 正在启用
  */
 @SpringBootApplication
 public class GitBootApplication {
